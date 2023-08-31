@@ -1,6 +1,6 @@
 # American Sign Language Recognition and Conversion to Speech
 
-![ASL Example](asl_example.png)
+![ASL Example]([asl_example.png](https://github.com/harshils06/ASL-Recognition-and-Speech-Conversion/blob/main/models/result.jpg))
 
 This project focuses on real-time recognition of American Sign Language (ASL) gestures using Convolutional Neural Networks (CNN), specifically Inception V3 architecture. The recognized gestures are then converted into spoken language. The project integrates OpenCV (cv2) for real-time gesture capturing from a camera feed.
 
