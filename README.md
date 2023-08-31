@@ -15,6 +15,6 @@ This project focuses on real-time recognition of American Sign Language (ASL) ge
 ## Installation
 
 1. Clone the repository:
-2. Run the .ipynb which will download a model.h5 file.
+2. Run the .ipynb which will download a asl_alphabet.h5 file.
 3. Create a folder named 'Model' and store the model.h5 file inside it.
 4. Run the pred.py file
